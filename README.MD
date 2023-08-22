@@ -4,7 +4,7 @@ Software Engineer.
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nx.js,typescript,html,css,sass,jest,md,tailwind,vercel,vite,vscode)
+![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,nodejs,nwrl,typescript,html,css,sass,jest,md,tailwind,vercel,vite,vscode)
 
 ## Socials
 
